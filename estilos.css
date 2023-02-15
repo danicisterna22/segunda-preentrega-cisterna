@@ -1,0 +1,29 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: rgb(14, 28, 221);
+    color: rgb(255, 255, 255);
+    justify-content: center;
+    display: flex;
+}
+.contenedor{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: antiquewhite;
+    width: 300px;
+    height: 300px;
+    margin: 50px;
+
+}
+.contenedor img {
+    
+    width: 200px;
+    height: 200px;
+}
+
+h1{
+    text-align: center;
+   padding: 20px;
+}
